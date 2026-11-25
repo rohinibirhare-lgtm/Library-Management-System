@@ -6,7 +6,7 @@ import users.User;
 import observer.InventoryObserver;
 import observer.PatronObserver;
 
-import inventory.searchpackage.*;
+import inventory.searchpackage.*;  
 
 import java.util.List;
 import java.util.Scanner;
